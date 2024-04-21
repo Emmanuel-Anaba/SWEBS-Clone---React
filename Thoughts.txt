@@ -1,0 +1,14 @@
+================================================================
+How to use Animate-On-Scroll(AOS) Library
+
+The Component for Typing-Animation in React
+
+I want to use Animate CSS Library or any other library for the header
+
+I want to use formik to do the contactform and applyform
+
+I have to reduce the size of joy and nath to 256px
+
+I want the color of the pagination btn to change depending on the mode in use
+
+Change the color of that date icon in the form
